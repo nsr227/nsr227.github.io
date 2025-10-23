@@ -9,3 +9,6 @@ In this infograpic it shows the. The data is from the Lehigh University [Office 
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQkmLH-cU8OlN4ze7-zDj3yXb6UDVmr4IoGP42-QrxWRaOIc9peYxVrd6sjEgQ62JgZltqMnsd4d2wx&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Google Maps Project 
+<iframe src="https://www.google.com/maps/d/embed?mid=1-EuefpnqVy8pEkKA26BIFl3Mnm6gKTE&ehbc=2E312F" width="640" height="480"></iframe>

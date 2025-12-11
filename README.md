@@ -3,9 +3,13 @@
 ## Bio
 <img width="531" height="699" alt="Screenshot 2025-09-04 at 10 00 24 AM" src="https://github.com/user-attachments/assets/4ca2291e-a034-4838-bb05-7dceab435363" />
 I am Nola Ryder a Journalism student at Lehigh University. Here, I am involved in Brown and White, Co- Captain of the SAM program + part of field hockey team
-Connect with me!
-Linkedin: https://www.linkedin.com/in/nola-ryder-7513b92b4/ 
-Webpage: https://nsr2275.wixsite.com/my-site-5
+
+#Connect with me!
+Linkedin: <a href=https://www.linkedin.com/in/nola-ryder-7513b92b4/>Click here</a> 
+
+Webpage: <a href=https://nsr2275.wixsite.com/my-site-5>My Website</a>
+
+
 ## Lehigh University Admissions Data of 2025 Applicants 
 In this infograpic it shows the. The data is from the Lehigh University [Office Instutional Data](https://data.lehigh.edu/incoming-class-summaries).  
 ![infographic](https://github.com/nsr227/nsr227.github.io/blob/main/Lehigh%20University.png?raw=true)

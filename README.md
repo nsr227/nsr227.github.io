@@ -2,6 +2,7 @@
 
 ## Bio
 <img width="531" height="699" alt="Screenshot 2025-09-04 at 10 00 24 AM" src="https://github.com/user-attachments/assets/4ca2291e-a034-4838-bb05-7dceab435363" />
+
 I am Nola Ryder a Journalism student at Lehigh University. Here, I am involved in Brown and White, Co- Captain of the SAM program + part of field hockey team
 
 # Connect with me!

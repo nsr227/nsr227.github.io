@@ -7,9 +7,9 @@ I am Nola Ryder a Journalism student at Lehigh University. Here, I am involved i
 
 # Connect with me!
 
-Linkedin: <a href=https://www.linkedin.com/in/nola-ryder-7513b92b4/>Click here</a> 
+Linkedin: <https://www.linkedin.com/in/nola-ryder-7513b92b4/>
 
-Webpage: <a href=https://nsr2275.wixsite.com/my-site-5>My Website</a>
+Webpage: <https://nsr2275.wixsite.com/my-site-5>
 
 
 ## Lehigh University Admissions Data of 2025 Applicants 

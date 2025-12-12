@@ -25,6 +25,10 @@ This timeline shows the evolution of the longest college football rivalry: Lehig
 Over the course of the last 100 years New York City has transformed from low-rise buildings and church steeples to a dense cluster of towering skyscrapers. Major architectural milestones, such as the Empire State Building, Chrysler Building, and One World Trade Center, reflect the city’s growth and ambition. Alongside this vertical expansion, infrastructure like bridges, subways, and highways has developed to support a booming population and economy.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTOydAmquNzb2yB4yF8MBLaPPGutMu9pFWJMqby3N2T6MliwAb-bByT-DH8FhhKef77zQQItiBiN_lC&font=Default&lang=en&initial_zoom=2&width=100%25&height=650'></iframe>
 
+# Data Wrapper Chart Projects
+This chart shows Lehigh Univeristy enrollment data by college in 2020. 
+<iframe title="2020 Lehigh University College Enrollment" aria-label="Pie Chart" id="datawrapper-chart-UIGYq" src="https://datawrapper.dwcdn.net/UIGYq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="589" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
 # Google Maps Projects
 ## 2025 Top 20 Best Cities for Cycling 
 <iframe src="https://www.google.com/maps/d/embed?mid=1-EuefpnqVy8pEkKA26BIFl3Mnm6gKTE&ehbc=2E312F" width="640" height="480"></iframe>

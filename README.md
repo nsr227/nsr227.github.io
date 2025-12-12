@@ -16,8 +16,14 @@ Webpage: <https://nsr2275.wixsite.com/my-site-5>
 In this infograpic it shows the data is from the Lehigh University [Office Instutional Data](https://data.lehigh.edu/incoming-class-summaries). The chart below highlights the differences between recruited athletes and non-athletes applying to Lehigh University. Data from the Office of Institutional Data, covering the past six years, shows that 87.1% of recruited athletes are guaranteed admission, compared to 26% of non-athlete applicants.
 ![infographic](https://github.com/nsr227/nsr227.github.io/blob/main/Lehigh%20University.png?raw=true)
 
-
+# Timeline Projects 
+## The Rivalry 
+This timeline shows the evolution of the longest college football rivalry: Lehigh vs. Lafayette.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQkmLH-cU8OlN4ze7-zDj3yXb6UDVmr4IoGP42-QrxWRaOIc9peYxVrd6sjEgQ62JgZltqMnsd4d2wx&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## The Evoultion of New York City's Skyline
+Over the course of the last 100 years New York City has transformed from low-rise buildings and church steeples to a dense cluster of towering skyscrapers. Major architectural milestones, such as the Empire State Building, Chrysler Building, and One World Trade Center, reflect the city’s growth and ambition. Alongside this vertical expansion, infrastructure like bridges, subways, and highways has developed to support a booming population and economy.
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTOydAmquNzb2yB4yF8MBLaPPGutMu9pFWJMqby3N2T6MliwAb-bByT-DH8FhhKef77zQQItiBiN_lC&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' 
 
 # Google Maps Projects
 ## 2025 Top 20 Best Cities for Cycling 

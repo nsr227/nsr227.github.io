@@ -13,17 +13,18 @@ Webpage: <https://nsr2275.wixsite.com/my-site-5>
 
 
 ## Lehigh University Admissions Data of 2025 Applicants 
-In this infograpic it shows the. The data is from the Lehigh University [Office Instutional Data](https://data.lehigh.edu/incoming-class-summaries).  
+In this infograpic it shows the data is from the Lehigh University [Office Instutional Data](https://data.lehigh.edu/incoming-class-summaries). The chart below highlights the differences between recruited athletes and non-athletes applying to Lehigh University. Data from the Office of Institutional Data, covering the past six years, shows that 87.1% of recruited athletes are guaranteed admission, compared to 26% of non-athlete applicants.
 ![infographic](https://github.com/nsr227/nsr227.github.io/blob/main/Lehigh%20University.png?raw=true)
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQkmLH-cU8OlN4ze7-zDj3yXb6UDVmr4IoGP42-QrxWRaOIc9peYxVrd6sjEgQ62JgZltqMnsd4d2wx&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# Google Maps Project
+# Google Maps Projects
 ## 2025 Top 20 Best Cities for Cycling 
 <iframe src="https://www.google.com/maps/d/embed?mid=1-EuefpnqVy8pEkKA26BIFl3Mnm6gKTE&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## 2025 Best Cities to Live Post Graduation
+The map below indicates the best cities for post-graduation individuals to live in, according to a recent report from [CNBC](https://www.cnbc.com/2025/10/03/recent-college-grads-are-flocking-to-these-10-us-cities-says-new-report.html) report. The statistics are derived from the cities where most 2025 college graduates relocated. According to the report, 1.47 million graduates from the Class of 2025 entered office-centric roles this year. Of those graduates, 36% moved to a different metro area, and 23% relocated to a different state.
 <iframe src="https://www.google.com/maps/d/embed?mid=1OmRDAO1rjXmrh_iyt1-F35cryWHcrtE&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Tableu graph 

@@ -26,8 +26,12 @@ Over the course of the last 100 years New York City has transformed from low-ris
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTOydAmquNzb2yB4yF8MBLaPPGutMu9pFWJMqby3N2T6MliwAb-bByT-DH8FhhKef77zQQItiBiN_lC&font=Default&lang=en&initial_zoom=2&width=100%25&height=650'width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Data Wrapper Chart Projects
+## Lehigh Univeristy Enrollment by College 
 This chart shows Lehigh Univeristy enrollment data by college in 2020. 
 <iframe title="2020 Lehigh University College Enrollment" aria-label="Pie Chart" id="datawrapper-chart-UIGYq" src="https://datawrapper.dwcdn.net/UIGYq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="589" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+## Number of small and medium-sized independent Amazon sellers in the U.S. in 2023
+<iframe title="Number of Amazon independent sellers in the U.S. 2023, by state" aria-label="Bar Chart" id="datawrapper-chart-VAK4S" src="https://datawrapper.dwcdn.net/VAK4S/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="959" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 # Google Maps Projects
 ## 2025 Top 20 Best Cities for Cycling 
